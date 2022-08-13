@@ -3,7 +3,7 @@ A little bit about myself :) :
 I am a Student of Techno Main Saltlake,
 Currently, I'm omw to complete my BTech (Computer Science) degree with Specialization on Data Science.
 Languages : C,Python.
-Pc Enthusiast.
+Pc Enthusiast
 
 
 <!---
