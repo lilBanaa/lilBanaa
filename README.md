@@ -1,4 +1,4 @@
-Hey, This is Sumit AKA Bana ; 
+Hey, This is Sumit ; 
 
 A little bit about myself :) :
 
